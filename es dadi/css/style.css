@@ -1,0 +1,52 @@
+/*
+----------
+RESET
+----------
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* 
+----------
+BODY
+----------
+*/
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*
+button
+*/
+
+body {
+    background-color: #004643;
+}
+
+div.container {
+    text-align: center;
+}
+
+#start-button {
+    all: unset;
+    padding: .625rem .9375rem;
+    margin-top: 3.125rem;
+    background-color: #f9bc60;
+    border-radius: .9375rem;
+    color: #001e1d;
+    font-weight: bold;
+    font-size: 1.125rem;
+}
+
+#result {
+    text-transform: uppercase;
+    font-weight: bolder;
+    font-size: 1.5rem;
+    margin-top: 1.5625rem;
+    color: #fff;
+}
