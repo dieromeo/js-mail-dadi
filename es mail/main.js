@@ -1,4 +1,4 @@
-'use strict'
+'use strict';
 
 const emailArray = ["tizio@gmail.com", "caio@gmail.com", "mariorossi@gmail.com", "claudior2@gmail.com", "filippo@libero.it"]; // array con email da confrontare
 const emailUtente = prompt("inserisci la tua email"); // variabile che salva la  mail inserita dall'utente
